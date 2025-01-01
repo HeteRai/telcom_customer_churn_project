@@ -3,7 +3,7 @@ Telcom_Customer_Churn_Project
 1. Introduction
 The dataset used in this project is the telco churn dataset provided by IBM. It contains data of a telco company, and it indicates which customers stayed and which customers left the company.
 In order to access the dataset, click [here](https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3)
-
+Click here to see the powerpoint presentation with a summary of the project : https://docs.google.com/presentation/d/1ozNcy-qG0-XdpdbNBXn1F-1WUGCnOWcq/edit?usp=sharing&ouid=105775692478019800071&rtpof=true&sd=true
 2. Motivation
 This project will be used to train my personal skills in data science. The goal of the project is to predict behavior to retain customers. Each row of the dataset represents a customer, each column contains customer’s attributes described in the data dictionary. 
 
@@ -38,12 +38,7 @@ TELCOM_CUSTOMER_CHURN_PROJECT/
 
 Results obtained on 06/12/2024
 
-1. Random Forest
-RF Precision: 0.9846827133479212
-RF Recall: 0.9635974304068522
-RF F1-score: 0.974025974025974
-
-2. XGBoost (best model)
+XGBoost (best model)
 XGB Precision: 0.9955654101995566
 XGB Recall: 0.961456102783726
 XGB F1-score: 0.9782135076252724
