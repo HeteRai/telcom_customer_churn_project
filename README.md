@@ -7,12 +7,12 @@ To see the powerpoint presentation with a summary of the project (portuguese ver
 
 2. Motivation 
 This project will be used to train my personal skills in data science. The goal of the project is to predict behavior to retain customers. Each row of the dataset represents a customer, each column contains customer’s attributes described in the data dictionary. 
-<br>
+
 3. Installation
 To run this repository, you need to install the required libraries in the requirement file:
 Run the following command in your terminal:
 pip install -r requirements.txt
-Note: Make sure you have Python and `pip` installed.
+Note: Make sure you have Python and `pip` installed. <br>
 
 4. Repository Structure
 
