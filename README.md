@@ -35,9 +35,8 @@ TELCOM_CUSTOMER_CHURN_PROJECT/ <br>
 └── requirements.txt <br>
 <br>
 
-5. Results
+5. Results <br>
 Results obtained on 06/12/2024
-<br>
 XGBoost (best model)
 <br>
 XGB Precision: 0.9955654101995566
