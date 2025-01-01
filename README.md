@@ -33,14 +33,17 @@ TELCOM_CUSTOMER_CHURN_PROJECT/ <br>
 ├── LICENSE.txt <br>
 ├── README.md <br>
 └── requirements.txt <br>
+<br>
 
 5. Results
+Results obtained on 06/12/2024
 <br>
-Results obtained on 06/12/2024 <br>
-
-XGBoost (best model) <br>
-XGB Precision: 0.9955654101995566 <br>
-XGB Recall: 0.961456102783726 <br>
+XGBoost (best model)
+<br>
+XGB Precision: 0.9955654101995566
+<br>
+XGB Recall: 0.961456102783726
+<br>
 XGB F1-score: 0.9782135076252724 <br>
 
 
