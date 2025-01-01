@@ -1,9 +1,8 @@
 Telcom_Customer_Churn_Project
 
-1. Introduction 
+1. Introduction <br>
 The dataset used in this project is the telco churn dataset provided by IBM. It contains data of a telco company, and it indicates which customers stayed and which customers left the company. <br>
 In order to access the dataset, click [here](https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3) <br>
-
 To see the powerpoint presentation with a summary of the project (portuguese version) click [here](https://docs.google.com/presentation/d/1ozNcy-qG0-XdpdbNBXn1F-1WUGCnOWcq/edit?usp=sharing&ouid=105775692478019800071&rtpof=true&sd=true)
 
 3. Motivation 
