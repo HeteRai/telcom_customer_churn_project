@@ -3,7 +3,7 @@ Telcom_Customer_Churn_Project
 1. Introduction
 The dataset used in this project is the telco churn dataset provided by IBM. It contains data of a telco company, and it indicates which customers stayed and which customers left the company.
 In order to access the dataset, click [here](https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3)
-Click here to see the powerpoint presentation with a summary of the project : https://docs.google.com/presentation/d/1ozNcy-qG0-XdpdbNBXn1F-1WUGCnOWcq/edit?usp=sharing&ouid=105775692478019800071&rtpof=true&sd=true
+Click here to see the powerpoint presentation with a summary of the project (portuguese version): https://docs.google.com/presentation/d/1ozNcy-qG0-XdpdbNBXn1F-1WUGCnOWcq/edit?usp=sharing&ouid=105775692478019800071&rtpof=true&sd=true
 2. Motivation
 This project will be used to train my personal skills in data science. The goal of the project is to predict behavior to retain customers. Each row of the dataset represents a customer, each column contains customer’s attributes described in the data dictionary. 
 
@@ -17,22 +17,23 @@ Note: Make sure you have Python and `pip` installed.
 
 4. Repository Structure
 
-TELCOM_CUSTOMER_CHURN_PROJECT/
-│
-├── data/
-│   ├── data dictionary.xlsx
-│   └── telco.csv
-│
-├── models/
-│   └── xgb_classifier.pkl
-│
-├── notebooks/
-│   └── telecommunications-customer-churn.ipynb
-│
-├── .gitignore.txt
-├── LICENSE.txt
-├── README.md
-└── requirements.txt
+<br>
+TELCOM_CUSTOMER_CHURN_PROJECT/ <br>
+│<br>
+├── data/<br>
+│   ├── data dictionary.xlsx <br>
+│   └── telco.csv <br>
+│<br>
+├── models/ <br>
+│   └── xgb_classifier.pkl <br>
+│<br>
+├── notebooks/ <br>
+│   └── telecommunications-customer-churn.ipynb <br>
+│ <br>
+├── .gitignore.txt <br>
+├── LICENSE.txt <br>
+├── README.md <br>
+└── requirements.txt <br>
 
 5. Results
 
