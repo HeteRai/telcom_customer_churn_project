@@ -1,52 +1,49 @@
 Telcom_Customer_Churn_Project
 
-1. Introduction
-The dataset used in this project is the telco churn dataset provided by IBM. It contains data of a telco company, and it indicates which customers stayed and which customers left the company.
-In order to access the dataset, click [here](https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3)
+1. Introduction <br>
+The dataset used in this project is the telco churn dataset provided by IBM. It contains data of a telco company, and it indicates which customers stayed and which customers left the company. <br>
+In order to access the dataset, click [here](https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3) <br>
+To see the powerpoint presentation with a summary of the project (portuguese version) click [here](https://docs.google.com/presentation/d/1ozNcy-qG0-XdpdbNBXn1F-1WUGCnOWcq/edit?usp=sharing&ouid=105775692478019800071&rtpof=true&sd=true)
 
-2. Motivation
+2. Motivation <br>
 This project will be used to train my personal skills in data science. The goal of the project is to predict behavior to retain customers. Each row of the dataset represents a customer, each column contains customer’s attributes described in the data dictionary. 
 
-3. Installation
+3. Installation <br>
 To run this repository, you need to install the required libraries in the requirement file:
 Run the following command in your terminal:
-
 pip install -r requirements.txt
-
-Note: Make sure you have Python and `pip` installed.
+Note: Make sure you have Python and `pip` installed. <br>
 
 4. Repository Structure
 
-TELCOM_CUSTOMER_CHURN_PROJECT/
-│
-├── data/
-│   ├── data dictionary.xlsx
-│   └── telco.csv
-│
-├── models/
-│   └── xgb_classifier.pkl
-│
-├── notebooks/
-│   └── telecommunications-customer-churn.ipynb
-│
-├── .gitignore.txt
-├── LICENSE.txt
-├── README.md
-└── requirements.txt
+<br>
+TELCOM_CUSTOMER_CHURN_PROJECT/ <br>
+│<br>
+├── data/<br>
+│   ├── data dictionary.xlsx <br>
+│   └── telco.csv <br>
+│<br>
+├── models/ <br>
+│   └── xgb_classifier.pkl <br>
+│<br>
+├── notebooks/ <br>
+│   └── telecommunications-customer-churn.ipynb <br>
+│ <br>
+├── .gitignore.txt <br>
+├── LICENSE.txt <br>
+├── README.md <br>
+└── requirements.txt <br>
+<br>
 
-5. Results
-
+5. Results <br>
 Results obtained on 06/12/2024
-
-1. Random Forest
-RF Precision: 0.9846827133479212
-RF Recall: 0.9635974304068522
-RF F1-score: 0.974025974025974
-
-2. XGBoost (best model)
+XGBoost (best model)
+<br>
 XGB Precision: 0.9955654101995566
+<br>
 XGB Recall: 0.961456102783726
-XGB F1-score: 0.9782135076252724
+<br>
+XGB F1-score: 0.9782135076252724 <br>
 
 
 
